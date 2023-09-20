@@ -27,8 +27,10 @@ This Java application simulates a library system where users can borrow and retu
 
 4. Compile the Java code:
 5.
-  ```shell
-javac LibrarySystemApp.java```
+
+ ```shell
+ javac LibrarySystemApp.java
+```
 
 6. Follow the on-screen instructions to interact with the library system.
 

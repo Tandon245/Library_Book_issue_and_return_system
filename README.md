@@ -26,7 +26,7 @@ This Java application simulates a library system where users can borrow and retu
 3. Navigate to the directory where you cloned the repository.
 
 4. Compile the Java code:
-5.
+5.Run the program :
 
  ```java
  javac main.java

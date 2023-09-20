@@ -1,4 +1,4 @@
-# Library System Java Application
+# Library System Java Program
 
 This Java application simulates a library system where users can borrow and return books. It provides a menu-based interface for users to interact with the library system.
 

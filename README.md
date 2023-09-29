@@ -9,7 +9,6 @@ This Java application simulates a library system where users can borrow and retu
 - Borrow books.
 - Return books.
 - Menu-based user interface.
-
 ## Getting Started
 
 ### Prerequisites
